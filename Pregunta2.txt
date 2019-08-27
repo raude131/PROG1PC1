@@ -1,0 +1,6 @@
+3 objetivos que el creador de Git se propuso fueron:
+- Ser un sistema de control de versiones fácil de usar
+- Conservar sus características iniciales como: velocidad, diseño sencillo y condicionamiento distribuido.
+- Ser un sistema de control de versiones distinto al tener la mayoría de cambios de forma local, git no necesita conectarse a un servidor para obtener
+una lista y mostrala.
+Creador de Git: Linus Tordvals

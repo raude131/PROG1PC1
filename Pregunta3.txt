@@ -1,0 +1,2 @@
+Entre las características principales de este protoclo está la multiplexación, la cuál permite enviar información al usuario antes que este le solicite algún tipo de 
+información. 
